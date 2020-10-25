@@ -41,4 +41,4 @@
 ---
 
 [website]: https://websterkun.com
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://linkedin.com/in/samir-el-mabtouti/
