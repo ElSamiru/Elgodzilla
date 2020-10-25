@@ -38,4 +38,4 @@
 ---
 
 [website]: https://websterkun.com
-[linkedin]: https://linkedin.com/in/samir-el-mabtouti/
+[linkedin]: https://www.linkedin.com/in/samir-el-mabtouti-871562197/
