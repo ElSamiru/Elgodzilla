@@ -1,6 +1,6 @@
 ### Hi Guys, I'm Samir (French Developer) - aka [ElGodzilla][website] 👋
 
-[![Website](https://img.shields.io/website?label=Websterkun&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://samirelgodzilla.com)
+[![Website](https://img.shields.io/website?label=MyPortfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://samirelgodzilla.com)
 
 ## I'm a Food Lover, Developer, and Traveler !
 
@@ -11,7 +11,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="samirelgodzilla.com"https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ElGodzilla | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -34,5 +33,5 @@
 
 ---
 
-[website]: https://websterkun.com
+[website]: https://samirelgodzilla.com
 [linkedin]: https://www.linkedin.com/in/samir-el-mabtouti-871562197/
