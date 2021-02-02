@@ -6,7 +6,7 @@
 
 - 🌱 I love learning new stuff all the time not only in the DEV World
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Become more strong
+- 🥅 2021 Goals: Become more strong
 - ⚡ Fun fact: Don't tell me you know a good place to eat i can travel just for eating
 
 ### Connect with me:
