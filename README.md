@@ -1,6 +1,6 @@
 ### Hi Guys, I'm Samir (French Developer) - aka [ElGodzilla][website] 👋
-
-[![Website](https://img.shields.io/website?label=MyPortfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://samirelgodzilla.com)
+e
+[![Website](https://img.shields.io/website?label=MyPortfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://samiru.dev)
 
 ## I'm a Food Lover, Developer, and Traveler !
 
